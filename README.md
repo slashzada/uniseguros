@@ -25,7 +25,7 @@ Para rodar o projeto localmente:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [LINK DO SEU REPOSITÓRIO]
+    git clone [(https://github.com/slashzada/uniseguros)]
     ```
 2.  **Abra o arquivo:**
     Navegue até a pasta `uniseguros_site/` e abra o arquivo `index.html` em seu navegador.
@@ -35,3 +35,5 @@ Para rodar o projeto localmente:
 ## ⚙️ Estrutura de Pastas
 
 A estrutura do projeto é limpa e organizada:
+
+**Desenvolvido por:** [Eduardo Passos]
